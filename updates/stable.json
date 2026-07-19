@@ -2,14 +2,14 @@
     "schema_version":  1,
     "channel":  "stable",
     "product":  "Bake Master",
-    "version":  "1.3.12",
-    "runtime_version":  "1.3.12",
+    "version":  "1.3.13",
+    "runtime_version":  "1.3.13",
     "repository":  "huang200201-dotcom/Bake-Groups-License-Status",
-    "tag":  "v1.3.12",
-    "release_api_url":  "https://api.github.com/repos/huang200201-dotcom/Bake-Groups-License-Status/releases/tags/v1.3.12",
-    "asset_name":  "Bake_Groups_Tool_1.3.12_Windows_x64.zip",
-    "asset_sha256":  "39037A07CF87EE9DB99B5D7E6C8E010BAE7B05AAAFB74489623A951AF5EBC60A",
-    "asset_size":  2221952,
+    "tag":  "v1.3.13",
+    "release_api_url":  "https://api.github.com/repos/huang200201-dotcom/Bake-Groups-License-Status/releases/tags/v1.3.13",
+    "asset_name":  "Bake_Groups_Tool_1.3.13_Windows_x64.zip",
+    "asset_sha256":  "70762C01A4042B7A744F3EB90C06F9E6D402A69711826BAC2F95AFF40898238C",
+    "asset_size":  1899534,
     "package_manifest":  "UPDATE_PACKAGE.json",
     "platform":  "windows-x64",
     "maya_versions":  [
@@ -20,5 +20,5 @@
                           "2026",
                           "2027"
                       ],
-    "published_at":  "2026-07-19T08:01:32Z"
+    "published_at":  "2026-07-19T19:39:01Z"
 }
