@@ -8,8 +8,8 @@
     "tag":  "v1.3.11",
     "release_api_url":  "https://api.github.com/repos/huang200201-dotcom/Bake-Groups-License-Status/releases/tags/v1.3.11",
     "asset_name":  "Bake_Groups_Tool_1.3.11_Windows_x64.zip",
-    "asset_sha256":  "6734556F7FAB6D1E559158BBF8EA122B81F86AF028FF744AC01734E43B899611",
-    "asset_size":  5971669,
+    "asset_sha256":  "443123A8D6A072A0E1B75C43D35CBD3C80936CE919ECA98C9FE3B5016E0D4691",
+    "asset_size":  2223239,
     "package_manifest":  "UPDATE_PACKAGE.json",
     "platform":  "windows-x64",
     "maya_versions":  [
@@ -20,5 +20,5 @@
                           "2026",
                           "2027"
                       ],
-    "published_at":  "2026-07-19T06:58:23Z"
+    "published_at":  "2026-07-19T07:04:07Z"
 }
